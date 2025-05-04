@@ -23,3 +23,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+Prior to this class, most of my experience with visualization was using RStudio. I think using seaborn and Python is more intuitive and easy for visualization. In this assignment, I think I learned how to utilize Streamlit and Seaborn together more effectively. I kept getting an error saying that I should use pd.concat instead of pd.merge in the etl.py file, though when I checked the solution file it used pd.merge as well. I learned how to better use seaborn for bar plots. You need to specify your data, x, y, and estimator. You can also specify the axes and add a categorical variable using hue. 
